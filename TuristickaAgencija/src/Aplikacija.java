@@ -20,7 +20,7 @@ public class Aplikacija {
     public static void main(String[] args) throws IOException {
 
     	//INICIJALIZACIJA PODATAKA 
-    	//******************************************
+    	//*****************************************
     	//Agent - U: Viktor P: viktor
     	//Klijent - U: Petar P: petar
     	
