@@ -25,7 +25,7 @@ public class Aplikacija {
     	//Klijent - U: Petar P: petar
     	
         /*
-        Agent k1 = new Agent("Viktor", "Salonski", "viktor");
+        Agent k1 = new Agent("Viktor", "Nikolic", "viktor");
         Agent k2 = new Agent("Nemanja", "Nemanjic", "nemanja");
         Klijent k3 = new Klijent("Petar", "Petrovic", "petar", 0.00);
         Klijent k4 = new Klijent("Nikola", "Nikolic", "nikola", 0.00);
